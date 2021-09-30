@@ -1,3 +1,5 @@
+package CodeUp;
+
 import java.util.Scanner;
 
 public class test_1052 {
